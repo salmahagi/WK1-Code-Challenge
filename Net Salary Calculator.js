@@ -47,7 +47,7 @@ function calculateNetSalary() {
     // Output the financial details
     console.log(`Gross Salary: ${grossSalary}`);
     console.log(`Tax: ${tax}`);
-    console.log(`NHIF Deduction:${nhif}`);
+    console.log(`NHIF Deduction: ${nhif}`);
     console.log(`NSSF Deduction: ${nssf}`);
     console.log(`Net Salary: ${netSalary}`);
 }
