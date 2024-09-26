@@ -2,7 +2,7 @@
 // Function to determine the grade based on student marks
 function getGrade() {
     // Prompt the user for input and parse it as an integer
-    let marks = prompt("Enter student marks (0-100):");
+    let marks = prompt ("Enter student marks (0-100):");
     marks = parseInt(marks);
 
     // Check if the input is valid (number between 0 and 100)
