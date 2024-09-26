@@ -6,7 +6,7 @@ function checkSpeed() {
 
     // Validate the input (must be a number and non-negative)
     if (isNaN(speed) || speed < 0) {
-        console.log("Invalid input. Please enter a valid speed.");
+    console.log("Invalid input. Please enter a valid speed.");
         return; // Exit if the input is invalid
     }
 
